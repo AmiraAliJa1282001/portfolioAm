@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.339c5bcb.chunk.css",
+    "main.js": "/static/js/main.a39077d5.chunk.js",
+    "main.js.map": "/static/js/main.a39077d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53937762.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53937762.js.map",
+    "static/css/2.8950b90d.chunk.css": "/static/css/2.8950b90d.chunk.css",
+    "static/js/2.463aeb1e.chunk.js": "/static/js/2.463aeb1e.chunk.js",
+    "static/js/2.463aeb1e.chunk.js.map": "/static/js/2.463aeb1e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8950b90d.chunk.css.map": "/static/css/2.8950b90d.chunk.css.map",
+    "static/css/main.339c5bcb.chunk.css.map": "/static/css/main.339c5bcb.chunk.css.map",
+    "static/js/2.463aeb1e.chunk.js.LICENSE.txt": "/static/js/2.463aeb1e.chunk.js.LICENSE.txt",
+    "static/media/Amira.f8bac0e5.jpg": "/static/media/Amira.f8bac0e5.jpg",
+    "static/media/AmiraCV2022.9d638ef0.pdf": "/static/media/AmiraCV2022.9d638ef0.pdf",
+    "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
+    "static/media/juice.e542c666.png": "/static/media/juice.e542c666.png",
+    "static/media/techStore.c2a51ddd.png": "/static/media/techStore.c2a51ddd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53937762.js",
+    "static/css/2.8950b90d.chunk.css",
+    "static/js/2.463aeb1e.chunk.js",
+    "static/css/main.339c5bcb.chunk.css",
+    "static/js/main.a39077d5.chunk.js"
+  ]
+}
